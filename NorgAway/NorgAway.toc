@@ -1,0 +1,6 @@
+## Title: NorgAway by Nihilianth
+## Version: 1.0
+## Author: nihilianth
+## Interface: 30300
+## SavedVariables: State CityFilter
+core.lua
